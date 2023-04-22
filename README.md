@@ -1,2 +1,2 @@
-# GameSDL
+# Sokoban
 test
